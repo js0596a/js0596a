@@ -1,35 +1,44 @@
 # Eduardo Salgado-Liceaga
 
-I am a Statistics student at American University (GPA 3.91) building practical data and ML tools.
+I am a Statistics student at American University (GPA 3.91) building practical data and machine learning tools.
 
-I like projects that combine technical depth with clear decision-making for real users.
+I focus on turning real production/business data into decisions people can use.
 
-## Current Focus
+## Work Experience
 
-- Applied machine learning for forecasting and operations decisions
-- Statistical modeling with noisy, real-world datasets
-- Dashboard design for non-technical stakeholders
+- **Junior Data Scientist / Operations Research Analyst, Curfimex S.A. de C.V. (May 2026-Aug 2026)**  
+  Built Python dashboards for leather tanning/retanning operations and developed an MLP model for production area forecasting.
+
+- **Research Analyst (Part-Time Contractor), FinEx Concierge Solutions LLC (Apr 2025-May 2025)**  
+  Built Python + Power BI workflows and supported scenario analysis for a $2.1B market opportunity.
+
+## Leadership Experience
+
+- **GeorgeHacks x UN Reboot the Earth - Winner / Product & Data Contributor (Apr 2026)**  
+  1st place in the UN & FAO track with FoodBridge.
+
+- **Goldman Sachs Case Competition - Team Lead / Presenter (Apr 2026)**  
+  Led a 5-member team on a strategic allocation case for a $2.4B endowment.
 
 ## Featured Projects
 
-1. **Interactive CV Dashboard** ([repo](https://github.com/js0596a/interactive-cv-dashboard))
-A resume built as a Dash app with interactive views for experience, projects, skills, and awards. Includes tests, data validation, and CI.
+1. **Interactive CV Dashboard** - [github.com/js0596a/interactive-cv-dashboard](https://github.com/js0596a/interactive-cv-dashboard)  
+   Resume as an interactive Dash app with separate work/leadership views, project search, skills, and awards.
 
-2. **Curtido / Recurtido MLP Dashboard** ([repo](https://github.com/js0596a/recurtido-mlp-dashboard))
-A bring-your-own-data workflow for training and serving an MLP model (`train`, `predict`, `validate`) with a dashboard front end. Private company data is excluded by design.
+2. **Leather Operations MLP Dashboard** - [github.com/js0596a/recurtido-mlp-dashboard](https://github.com/js0596a/recurtido-mlp-dashboard)  
+   Upload-your-own-data dashboard with local model training + inference workflow for leather operations forecasting.
 
-3. **FoodBridge (GeorgeHacks x UN Winner)** ([Devpost](https://devpost.com/software/food-bridge-isqzu0))
-Award-winning sustainability project focused on food systems impact and access.
+3. **FoodBridge (GeorgeHacks x UN Winner)** - [Devpost](https://devpost.com/software/food-bridge-isqzu0)  
+   Sustainability-focused project around food access and personalized planning.
 
-## 2026 Highlights
+## 2026 Awards
 
-- 1st place, GeorgeHacks x UN Reboot the Earth Hackathon (UN & FAO track)
 - Capital CoLAB Emerging Tech Talent Scholarship ($2,500)
-- Hanna Miriam Sandler Professional Society Membership Award (Math/Statistics Department)
+- Hanna Miriam Sandler Professional Society Membership Award
 
 ## Research Interests
 
-- Statistical learning for operational systems
+- Statistical learning for operations systems
 - Forecasting and uncertainty-aware decision support
 - Responsible ML products that balance rigor and usability
 
@@ -42,4 +51,4 @@ Award-winning sustainability project focused on food systems impact and access.
 - LinkedIn: [linkedin.com/in/edu-sal](https://linkedin.com/in/edu-sal)
 - Email: [js0596a@american.edu](mailto:js0596a@american.edu)
 
-I am open to internships, research, and collaborations in data science, analytics, and ML engineering.
+Open to internships, research collaborations, and full-time early-career roles in data science, analytics, and ML engineering.
