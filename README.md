@@ -49,7 +49,7 @@ I focus on turning raw production and business data into decisions people can us
 
 ## Tech
 
-`Excel` `Python` `SQL` `R` `Power BI` `Pandas` `NumPy` `Plotly` `Dash` `SimPy` `scikit-learn` `TensorFlow/Keras` `PySpark`
+`Excel` `Python` `SQL` `R` `Power BI` `Pandas` `NumPy` `Plotly` `Dash` `SimPy` `scikit-learn` `TensorFlow/Keras` `PySpark` `Git/GitHub` `Docker`
 
 ## Contact
 
