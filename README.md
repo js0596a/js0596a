@@ -7,7 +7,7 @@ I focus on turning real production/business data into decisions people can use.
 ## Work Experience
 
 - **Junior Data Scientist / Operations Research Analyst, Curfimex S.A. de C.V. (May 2026-Aug 2026)**  
-  Built Python dashboards for leather tanning/retanning operations and developed an MLP model for production area forecasting.
+  Built Dash/Plotly tools for leather production operations, including process simulation, cost modeling, SPC analysis, and production forecasting workflows.
 
 - **Research Analyst (Part-Time Contractor), FinEx Concierge Solutions LLC (Apr 2025-May 2025)**  
   Built Python + Power BI workflows and supported scenario analysis for a $2.1B market opportunity.
@@ -22,13 +22,16 @@ I focus on turning real production/business data into decisions people can use.
 
 ## Featured Projects
 
-1. **Interactive CV Dashboard** - [github.com/js0596a/interactive-cv-dashboard](https://github.com/js0596a/interactive-cv-dashboard)  
+1. **Production Flow Decision Studio** - [github.com/js0596a/empirical-lot-cost-simulator](https://github.com/js0596a/empirical-lot-cost-simulator)  
+   Dash + SimPy operations research app for lot-flow simulation, plant cost modeling, SPC/capability analysis, and Bayesian process comparison.
+
+2. **Interactive CV Dashboard** - [github.com/js0596a/interactive-cv-dashboard](https://github.com/js0596a/interactive-cv-dashboard)  
    Resume as an interactive Dash app with separate work/leadership views, project search, skills, and awards.
 
-2. **Leather Operations MLP Dashboard** - [github.com/js0596a/recurtido-mlp-dashboard](https://github.com/js0596a/recurtido-mlp-dashboard)  
+3. **Leather Operations MLP Dashboard** - [github.com/js0596a/recurtido-mlp-dashboard](https://github.com/js0596a/recurtido-mlp-dashboard)  
    Upload-your-own-data dashboard with local model training + inference workflow for leather operations forecasting.
 
-3. **FoodBridge (GeorgeHacks x UN Winner)** - [Devpost](https://devpost.com/software/food-bridge-isqzu0)  
+4. **FoodBridge (GeorgeHacks x UN Winner)** - [Devpost](https://devpost.com/software/food-bridge-isqzu0)  
    Sustainability-focused project around food access and personalized planning.
 
 ## 2026 Awards
@@ -44,7 +47,7 @@ I focus on turning real production/business data into decisions people can use.
 
 ## Tech
 
-`Python` `SQL` `R` `Dash` `Plotly` `scikit-learn` `TensorFlow` `PySpark` `Power BI`
+`Python` `SQL` `R` `Dash` `Plotly` `SimPy` `Pandas` `scikit-learn` `TensorFlow` `PySpark` `Power BI`
 
 ## Contact
 
