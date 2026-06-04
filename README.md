@@ -6,20 +6,21 @@ I focus on turning raw production and business data into decisions people can us
 
 ## Work Experience
 
-- **Junior Data Scientist / Operations Research Analyst, Curfimex S.A. de C.V. (May 2026-Aug 2026)**  
+- **Data Scientist, Curfimex S.A. de C.V. (May 2026-Aug 2026)**  
   Built Python dashboards and simulation workflows to transform raw production logs into operational insights on throughput, bottlenecks, machine capacity, and process costs.  
   Performed EDA, data cleaning, and statistical modeling on plant process data to support queueing analysis, capability studies, and production planning decisions.  
-  Developed OR/data science tools for queueing simulation, control charts, process capability analysis, and Bayesian process classification.
+  Developed data science tools for queueing simulation, control charts, process capability analysis, and Bayesian process classification.
 
-- **Research Analyst (Part-Time Contractor), FinEx Concierge Solutions LLC (Apr 2025-May 2025)**  
-  Built Python + Power BI workflows and supported scenario analysis for a $2.1B market opportunity.
+- **Data Analyst, FinEx Concierge Solutions LLC. (May 2025-Aug 2025)**  
+  Built Python and Power BI workflows to clean, join, and transform raw pricing, demand, and market data into dashboard-ready datasets, improving reporting efficiency and forecast visibility.  
+  Performed exploratory data analysis and scenario modeling on a $2.1B market opportunity to identify demand drivers, size high-value segments, and support data-driven strategic decisions.
 
 ## Leadership Experience
 
-- **GeorgeHacks x UN Reboot the Earth - Winner / Product & Data Contributor (Apr 2026)**  
+- **GeorgeHacks x UN Reboot the Earth - Product & Data Contributor (Apr 2026)**  
   1st place in the UN & FAO track with FoodBridge.
 
-- **Goldman Sachs Case Competition - Team Lead / Presenter (Apr 2026)**  
+- **Goldman Sachs Case Competition - Team Lead (Aug 2024-May 2025)**  
   Led a 5-member team on a strategic allocation case for a $2.4B endowment.
 
 ## Featured Projects
