@@ -1,13 +1,15 @@
 # Eduardo Salgado-Liceaga
 
-I am a Statistics student at American University (GPA 3.91) building practical data and machine learning tools.
+I am a Statistics and Applied Mathematics student at American University (GPA 3.91) building practical data, operations research, and machine learning tools.
 
-I focus on turning real production/business data into decisions people can use.
+I focus on turning raw production and business data into decisions people can use.
 
 ## Work Experience
 
 - **Junior Data Scientist / Operations Research Analyst, Curfimex S.A. de C.V. (May 2026-Aug 2026)**  
-  Built Dash/Plotly tools for leather production operations, including process simulation, cost modeling, SPC analysis, and production forecasting workflows.
+  Built Python dashboards and simulation workflows to transform raw production logs into operational insights on throughput, bottlenecks, machine capacity, and process costs.  
+  Performed EDA, data cleaning, and statistical modeling on plant process data to support queueing analysis, capability studies, and production planning decisions.  
+  Developed OR/data science tools for queueing simulation, control charts, process capability analysis, and Bayesian process classification.
 
 - **Research Analyst (Part-Time Contractor), FinEx Concierge Solutions LLC (Apr 2025-May 2025)**  
   Built Python + Power BI workflows and supported scenario analysis for a $2.1B market opportunity.
@@ -23,7 +25,7 @@ I focus on turning real production/business data into decisions people can use.
 ## Featured Projects
 
 1. **Production Flow Decision Studio** - [github.com/js0596a/empirical-lot-cost-simulator](https://github.com/js0596a/empirical-lot-cost-simulator)  
-   Dash + SimPy operations research app for lot-flow simulation, plant cost modeling, SPC/capability analysis, and Bayesian process comparison.
+   Dash + SimPy operations research app for queueing simulation, plant cost modeling, control charts, process capability analysis, and Bayesian process classification.
 
 2. **Interactive CV Dashboard** - [github.com/js0596a/interactive-cv-dashboard](https://github.com/js0596a/interactive-cv-dashboard)  
    Resume as an interactive Dash app with separate work/leadership views, project search, skills, and awards.
@@ -41,13 +43,13 @@ I focus on turning real production/business data into decisions people can use.
 
 ## Research Interests
 
-- Statistical learning for operations systems
+- Operations research and queueing analysis
+- Statistical process control and capability analysis
 - Forecasting and uncertainty-aware decision support
-- Responsible ML products that balance rigor and usability
 
 ## Tech
 
-`Python` `SQL` `R` `Dash` `Plotly` `SimPy` `Pandas` `scikit-learn` `TensorFlow` `PySpark` `Power BI`
+`Excel` `Python` `SQL` `R` `Power BI` `Pandas` `NumPy` `Plotly` `Dash` `SimPy` `scikit-learn` `TensorFlow/Keras` `PySpark`
 
 ## Contact
 
