@@ -1,60 +1,70 @@
 # Eduardo Salgado-Liceaga
 
-I am a Statistics and Applied Mathematics student at American University (GPA 3.91) building practical data, operations research, and machine learning tools.
+**Applied Statistics & Applied Mathematics student at American University**  
+Washington, D.C. · [LinkedIn](https://linkedin.com/in/edu-sal) · [GitHub](https://github.com/js0596a) · js0596a@american.edu
 
-I focus on turning raw production and business data into decisions people can use.
+I build data products that turn messy operational data into decisions. My work sits at the intersection of applied statistics, production analytics, simulation, dashboarding, and practical software tools for real business workflows.
+
+## Featured Project
+
+### [Curfimex Leather Registry](https://github.com/js0596a/curfimex-registro-cuero)
+Native Android app for leather load inspection, defect tracking, photo evidence, and executive PDF reporting.
+
+- Built an offline Android prototype using **Java**, **SQLite**, and native Android APIs.
+- Designed load registration, duplicate prevention, editable defect catalogs, photo capture, filtering, and local persistence.
+- Generated executive PDF reports with KPIs, defect distribution charts, donut/pie visuals, affected-load summaries, and photo evidence.
+- Added process-based reporting for `Incoming` and `Liberación calidad` workflows.
+- Packaged and shared APK builds for stakeholder testing and iteration.
+
+## Education
+
+**American University, College of Arts and Sciences** — Washington, D.C.  
+**B.S. in Applied Statistics and Applied Mathematics** · Expected May 2027  
+GPA: **3.91**
+
+Relevant coursework: Linear Algebra, Multivariable Calculus, Probability Theory, Mathematical Statistics, Regression Modeling, Data Mining, Machine Learning, Algorithms & Data Structures, Numerical Methods, Statistical Machine Learning.
 
 ## Work Experience
 
-- **Data Scientist, Curfimex S.A. de C.V. (May 2026-Aug 2026)**  
-  Built Python dashboards and simulation workflows to transform raw production logs into operational insights on throughput, bottlenecks, machine capacity, and process costs.  
-  Performed EDA, data cleaning, and statistical modeling on plant process data to support queueing analysis, capability studies, and production planning decisions.  
-  Developed data science tools for queueing simulation, control charts, process capability analysis, and Bayesian process classification.
+### Curfimex S.A. de C.V. — Data Scientist
+León, Guanajuato, Mexico · May 2026 – Aug 2026
 
-- **Data Analyst, FinEx Concierge Solutions LLC. (May 2025-Aug 2025)**  
-  Built Python and Power BI workflows to clean, join, and transform raw pricing, demand, and market data into dashboard-ready datasets, improving reporting efficiency and forecast visibility.  
-  Performed exploratory data analysis and scenario modeling on a $2.1B market opportunity to identify demand drivers, size high-value segments, and support data-driven strategic decisions.
+- Built Python dashboards and SimPy workflows from production logs to analyze throughput, bottlenecks, machine capacity, and process costs.
+- Performed EDA, data cleaning, and statistical modeling on plant process data for queueing studies, capability reviews, and production planning.
+- Developed operations tools including queueing simulation, control charts, process capability studies, and Bayesian process classification.
+- Prototyped an Android inspection tool for leather load tracking, defect catalogs, photo evidence, and PDF reporting.
 
-## Leadership Experience
+### FinEx Concierge Solutions, LLC — Data Analyst
+Washington, D.C. · May 2025 – Aug 2025
 
-- **GeorgeHacks x UN Reboot the Earth - Product & Data Contributor (Apr 2026)**  
-  1st place in the UN & FAO track with FoodBridge.
+- Built Python and Power BI workflows to clean, join, and transform pricing, demand, and market data across three domains for $2.1B market sizing.
+- Modeled a $2.1B market opportunity using exploratory review and scenario planning to identify demand drivers and high-value segments.
+- Translated business questions into KPI definitions, data requirements, and Power BI reporting logic for repeatable workflows.
 
-- **Goldman Sachs Case Competition - Team Lead (Aug 2024-May 2025)**  
-  Led a 5-member team on a strategic allocation case for a $2.4B endowment.
+## Project Experience
 
-## Featured Projects
+### George Hacks x UN Reboot the Earth Hackathon — FoodBridge
+Product & Data Contributor · Washington, D.C. · Apr 2026
 
-1. **Production Flow Decision Studio** - [github.com/js0596a/empirical-lot-cost-simulator](https://github.com/js0596a/empirical-lot-cost-simulator)  
-   Dash + SimPy operations research app for queueing simulation, plant cost modeling, control charts, process capability analysis, and Bayesian process classification.
+- Placed 1st in the UN/FAO track by helping build FoodBridge, an AI meal-planning app for affordable, personalized nutrition.
+- Designed a five-step data workflow using health, dietary, budget, and location inputs to generate personalized meal plans and grocery lists.
+- Pitched a working prototype addressing food insecurity, nutrition equity, and budget-aware meal planning.
 
-2. **Interactive CV Dashboard** - [github.com/js0596a/interactive-cv-dashboard](https://github.com/js0596a/interactive-cv-dashboard)  
-   Resume as an interactive Dash app with separate work/leadership views, project search, skills, and awards.
+### Goldman Sachs Case Competition — American University
+Team Lead · Washington, D.C. · Aug 2024 – May 2025
 
-3. **Leather Operations MLP Dashboard** - [github.com/js0596a/recurtido-mlp-dashboard](https://github.com/js0596a/recurtido-mlp-dashboard)  
-   Upload-your-own-data dashboard with local model training + inference workflow for leather operations forecasting.
+- Led a five-member team developing strategic asset allocation recommendations for a $2.4B endowment under liquidity, real-return, and ethical-divestment constraints.
+- Evaluated $290M in near-term funding needs and supported portfolio recommendations with liquidity and stagflation scenario testing.
 
-4. **FoodBridge (GeorgeHacks x UN Winner)** - [Devpost](https://devpost.com/software/food-bridge-isqzu0)  
-   Sustainability-focused project around food access and personalized planning.
+## Technical Skills
 
-## 2026 Awards
+**Languages & Tools:** Python, SQL, R, Java, Excel, Power BI, Git/GitHub, Docker  
+**Python/Data:** Pandas, NumPy, Plotly, Dash, SimPy, scikit-learn, TensorFlow/Keras, PySpark  
+**Methods:** Data cleaning, EDA, KPI reporting, dashboarding, market sizing, cost modeling, simulation, queueing methods, SPC, regression, machine learning, scenario planning  
+**Languages:** English, Spanish, German
 
-- Capital CoLAB Emerging Tech Talent Scholarship ($2,500)
-- Hanna Miriam Sandler Professional Society Membership Award
+## What I’m Working On
 
-## Research Interests
-
-- Operations research and queueing analysis
-- Statistical process control and capability analysis
-- Forecasting and uncertainty-aware decision support
-
-## Tech
-
-`Excel` `Python` `SQL` `R` `Power BI` `Pandas` `NumPy` `Plotly` `Dash` `SimPy` `scikit-learn` `TensorFlow/Keras` `PySpark` `Git/GitHub` `Docker`
-
-## Contact
-
-- LinkedIn: [linkedin.com/in/edu-sal](https://linkedin.com/in/edu-sal)
-- Email: [js0596a@american.edu](mailto:js0596a@american.edu)
-
-Open to internships, research collaborations, and full-time early-career roles in data science, analytics, and ML engineering.
+- Building production analytics tools for manufacturing operations.
+- Turning plant-floor data into dashboards, simulations, and decision-support models.
+- Developing practical software prototypes that reduce manual reporting and improve operational visibility.
